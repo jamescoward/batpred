@@ -64,7 +64,7 @@ dmypy.json
 *_test.py
 
 # Debug and log files
-*.log
+# *.log
 *.txt.actual.json
 *.yaml.actual.json
 *.bin
